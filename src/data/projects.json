@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Air-Quality-Index",
+    "imageSrc": "projects/airqi.jpg",
+    "description": "Developed a user-friendly web application to allow users to check real-time air quality at their current location.",
+    "skills": ["Angular", "JavaScript", "HTML & CSS"],
+    "demo": "https://raman-airqi.netlify.app",
+    "source": "https://github.com/Raman-14/Air-QI"
+  },
+  {
+    "title": "Review System App",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a full-featured CRUD application using Vue.js, allowing users to create, read, update, and delete reviews.",
+    "skills": ["vuejs", "JavaScript", "HTML & CSS"],
+    "demo": "https://review-raman.netlify.app",
+    "source": "https://github.com/Raman-14/ReviewSystem"
+  }
+]
